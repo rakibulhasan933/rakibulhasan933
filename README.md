@@ -10,8 +10,6 @@
 ### Contact Me
 
 [![(Website)](https://img.shields.io/badge/Website-Rakibul-9cf.svg?&style=for-the-badge&logo=WebMoney)](https://rakibul-hasan-dev.web.app/)
-[![(Linkedin)](https://img.shields.io/badge/Linkedin-Rakibul Hasan-9cf.svg?&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in)
-[![(DEV)](https://img.shields.io/badge/DEV-Rakibul hasan-9cf.svg?&style=for-the-badge&logo=dev.to)](https://dev.to/)
 <br />
 
 ### Languages and Tools
@@ -31,27 +29,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
-<br />
-<br />
-<hr />
-
-### GitHub Stats
-
-<!-- ![Hassan Zahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-zahar&count_private=true) -->
-<!-- ![Hassan Zahar's Profile Views](https://gpvc.arturio.dev/h-zahar)<br /> -->
-<!-- ![Hassan Zahar's Top Languages](https://h-zahar-readme-stats.vercel.app/api/top-langs/?username=h-zahar)
-![Hassan Zahar's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=h-zahar)
-
-<!-- <details>
-<summary>
-  <strong>Activity Graph</strong>
-</summary><br />
-
-![Hassan Zahar's GitHub Activity Graph](https://github-activity-graph-deploy.herokuapp.com/graph?username=h-zahar)
-
-</details> --> -->
-<!-- <br /> -->
-
 <!---
 rakibulhasan933/rakibulhasan933 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
