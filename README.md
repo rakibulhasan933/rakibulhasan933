@@ -6,7 +6,8 @@
 - ⚡ Fun fact: Love both tea and coffee. What about you?
 
 ---
-
+### Card
+[![(Website)](https://api.daily.dev/devcards/6fae5871f50a4b35bda3e311614f974c.png?r=pm1)]
 ### Contact Me
 
 [![(Website)](https://img.shields.io/badge/Website-Rakibul-9cf.svg?&style=for-the-badge&logo=WebMoney)](https://rakibul-hasan-dev.web.app/)
