@@ -23,9 +23,11 @@
 
 - 🌱 I’m currently learning **Next.js, GraphQL**
 
-- 📝 I regularly write articles on [https://dev.to/mdrakibulhasan](https://dev.to/mdrakibulhasan)
+- 📝 Portfolio:- [https://www.rakibulhossain.com](https://www.rakibulhossain.com)
 
 - 📫 How to reach me **rakibulmd933@gmail.com**
+  
+ - ⚡ Fun fact: Love both tea and coffee. What about you?
 
 
 ###
