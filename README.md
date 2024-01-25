@@ -41,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="33" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="33" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" width="33" alt="c logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="28" height="33"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="33" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" width="33" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" width="33" alt="express logo"  />
   <img src="https://www.svgrepo.com/show/374002/prisma.svg" height="28" width="33" alt="prisma logo"  />
@@ -66,7 +64,6 @@
 <h3 align="center">Statistics</h3>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakibulhasan933&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibulhasan933&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakibulhasan933&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibulhasan933&theme=dark" height="180em" />
 </div>
