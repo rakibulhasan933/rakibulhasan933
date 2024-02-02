@@ -35,9 +35,7 @@
 
 ###
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,git,kubernetes,docker,c,vim" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,git,tailwind,sass,express,graphql,redux,firebase,prisma,kubernetes,docker,apollo,aws,vercel,mongodb,mysql,planetscale,postgres,redis,threejs,postman,jest,babel,bootstrap,cloudflare,supabase" />
 </p>
 
 ###
