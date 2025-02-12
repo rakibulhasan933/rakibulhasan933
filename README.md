@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Next.js, GraphQL and AWS**
 
-- 📝 Portfolio:- [https://www.rakibulhossain.com](https://www.rakibulhossain.com)
+- 📝 Portfolio:- [https://www.rakibulhasanrakib.com](https://www.rakibulhasanrakib.com)
 
 - 📫 How to reach me **rakibulmd933@gmail.com**
   
