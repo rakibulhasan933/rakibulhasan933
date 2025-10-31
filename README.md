@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frakibulhasan933&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 <h1 align="center">MD:- Rakibul Hasan Rakib</h1>
 <h4 align="center">Web Developer |  IT Enthusiast</h4>
 <div align="center">
@@ -23,7 +22,7 @@
 
 - 🌱 I’m currently learning **Next.js, GraphQL and AWS**
 
-- 📝 Portfolio:- [https://www.rakibulhasanrakib.com](https://www.rakibulhasanrakib.com)
+- 📝 Portfolio:- [https://rakibulhasan-dev.vercel.app](https://rakibulhasan-dev.vercel.app)
 
 - 📫 How to reach me **rakibulmd933@gmail.com**
   
