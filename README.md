@@ -1,4 +1,4 @@
-<h1 align="center">MD:- Rakibul Hasan Rakib</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> MD:- Rakibul Hasan Rakib  </h1>
 <h4 align="center">Web Developer |  IT Enthusiast</h4>
 <div align="center">
   <a href="https://www.linkedin.com/in/rakibulhossainrakib/" target="_blank">
